@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding: 0;
+    
 }
 
 .topmenu1{
@@ -156,3 +157,90 @@ button:hover{
     background-color: aliceblue;
     color: black;
 }
+
+
+.baner{
+    background-color:black;
+    height: 450px;
+    width: 100%;
+    padding: 1px;
+    color: #f9f9f9;
+}
+
+.baner h1{
+    margin-left: 180px;
+    
+}
+
+.baner p{
+    position: relative;
+    margin-left: 180px;
+    bottom: 20px;
+    
+}
+
+.img3{
+    position: relative;
+    height: 280px;
+    bottom:600px ;
+    left: 180px;
+    width: 600px;
+     
+}
+
+.butt2{
+    margin-top: 90px;
+    margin-left: 180px;
+}
+
+.img4{
+    position: relative;
+    height: 550px;
+    left: 760px;
+    bottom: 280px;
+}
+
+
+
+
+  .imge33{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 170px;
+    
+  }
+
+  .i2{
+    height: 270px;
+    width: 270px;
+    padding: 3px;
+    
+  }
+
+
+  .i1 a{
+    color: black;
+  }
+
+  .top{
+    line-height: 0px;
+    margin-left: 20px;
+  }
+
+  .mid{
+    margin-top: 0px;
+    margin-left: 20px;
+  }
+
+  .lnk{
+    margin-top: 0px;
+    margin-left: 20px;
+  }
+
+  .slider{
+    background-image: url('./771.jpg');
+    height: 100vh;
+    width: 100%;
+    margin-top: 30px;
+  }
+ 
